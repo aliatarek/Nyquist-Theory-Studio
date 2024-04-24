@@ -1,6 +1,6 @@
 # Nyquist Sampling Theory Studio
 
-A desktop application that illustrates the signal sampling and recovery showing the importance and validation of the Nyquist rate.
+A signal sampling and recovery studio that validates the nyquist rate, with a built in signal composer and a noise feature
 
 ## Features
 
